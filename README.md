@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hello, I'm Ethan Lau
+<a href="https://www.linkedin.com/in/lau-ethan/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-<!--
-**ethanj-lau/ethanj-lau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I have a unique background in UX Design and business operations and love to solve complex problems. This is where I will document my IT projects during my journey to transition into the field.
 
-Here are some ideas to get you started:
+## Skills
+[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| Active Directory Accounts and Permissions          | <a href="https://google.com">Windows Server AD Lab</a>|
+
+## Certifications
+[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+<div>
+WIP <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+
+</div>
+
+## Projects
+- Windows Server Active Directory Lab
