@@ -11,9 +11,9 @@ I have a unique background in UX Design and business operations and love to solv
 | Active Directory Accounts and Permissions          | <a href="https://google.com">Windows Server AD Lab</a>|
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+
 <div>
-WIP <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+WIP - <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 
 </div>
 
