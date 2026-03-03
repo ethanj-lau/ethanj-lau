@@ -4,7 +4,6 @@
 I have a unique background in UX Design and business operations and love to solve complex problems. This is where I will document my IT projects during my journey to transition into the field.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
