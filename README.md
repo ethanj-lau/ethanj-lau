@@ -17,4 +17,4 @@ WIP - <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-
 </div>
 
 ## Projects
-- Windows Server Active Directory Lab
+- <a href="https://github.com/ethanj-lau/Windows-Server-Active-Directory-Lab">Windows Server AD Lab</a>|
