@@ -7,7 +7,7 @@ I have a unique background in UX Design and business operations and love to solv
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Active Directory Accounts and Permissions          | <a href="https://google.com">Windows Server AD Lab</a>|
+| Active Directory Accounts and Permissions          | <a href="https://github.com/ethanj-lau/Windows-Server-Active-Directory-Lab">Windows Server AD Lab</a>|
 
 ## Certifications
 
